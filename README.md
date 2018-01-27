@@ -1,0 +1,2 @@
+# gg
+Aplikasi berinternetan
